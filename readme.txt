@@ -169,32 +169,33 @@ Working Offsets, with smallest files first, works on PS4 (& Perhaps Xbox One Var
 Files With Size, in kb, for choosing which files to spawn in server, with PS4 Memory Budget of 3580kb.
 (PLEASE NOTE THAT THIS IS A VERY ROUGH ESTIMATE OF THE MEMORY BUDGET AND PROBABLY NOT ACCURATE.)
 
-factory.json 								            12
-Sea_Platform.json 						        	30
-ChernoHighSchool.json 					      	41
-Krutoy_Cap_With_OffSets.json 			    	42
-RandomStuff_With_OffSets.json 			  	155
-Kamenka_With_OffSets.json 					    157
-Gorka_With_OffSets.json 					      212
-Tisy_With_OffSets.json 						      233
-Staroye_With_OffSets.json 					    261
-Solnechniy_With_OffSets.json 				    329
-Nadezhdino_With_OffSets.json 				    394
-Myshkino_With_OffSets.json 					    417
+factory.json 								12
+Sea_Platform.json 							30
+ChernoHighSchool.json 						41
+Krutoy_Cap_With_OffSets.json 				42
+RandomStuff_With_OffSets.json 				155
+Kamenka_With_OffSets.json 					157
+Gorka_With_OffSets.json 					212
+Tisy_With_OffSets.json 						233
+Staroye_With_OffSets.json 					261
+Solnechniy_With_OffSets.json 				329
+Nadezhdino_With_OffSets.json 				394
+Myshkino_With_OffSets.json 					417
 Chernogorsk_Forrest_2_With_OffSets.json		439
 Chernogorsk_Forrest_1_With_OffSets.json 	500
-Evacuation_With_OffSets.json 			      	525
+Evacuation_With_OffSets.json 				525
 Chernogorsk_Enhancement2_With_OffSets.json 	579
-GrassCoastRoad.json 						          596
-Roads_With_OffSets.json 				        	737
-Berezino_With_Offsets.json 				      	758
+GrassCoastRoad.json 						596
+Roads_With_OffSets.json 					737
+Berezino_With_Offsets.json 					758
 Chernogorsk_Enhancement1_With_OffSets.json 	911
-Kamyshovo_With_OffSets.json 			      	1027
-ChernoGrass_2_With_Offsets.json 		    	1052
-Elektrozavodsk_With_OffSets.json 		    	1290
-ChernoGrass_1_With_Offsets.json 		    	1358
-Svetloyarsk_1_With_OffSets.json 			    1754
-Svetloyarsk_2_With_OffSets.json 			    1809
+Kamyshovo_With_OffSets.json 				1027
+ChernoGrass_2_With_Offsets.json 			1052
+Elektrozavodsk_With_OffSets.json 			1290
+ChernoGrass_1_With_Offsets.json 			1358
+Svetloyarsk_1_With_OffSets.json 			1754
+Svetloyarsk_2_With_OffSets.json 			1809
+
 
 -------------------------------------------------------------
 -------------------------------------------------------------
